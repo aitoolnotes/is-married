@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Updates</title>
+    <meta name="description" content="My daily blog updates.">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="blob-bg"></div>
+    <header>
+        <div class="container">
+            <h1 class="logo">Daily<span>Blog</span></h1>
+            <p class="tagline">My thoughts, updated daily.</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="posts-list" id="posts-container">
+            <!-- Posts will be injected here by build.js -->
+            {{POSTS}}
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Daily Blog. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
