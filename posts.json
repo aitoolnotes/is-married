@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Celebrity A Announces Secret Marriage After Years of Dating",
+      "excerpt": "In a shocking announcement, Celebrity A revealed they tied the knot with their longtime partner in an intimate ceremony.",
+      "content": "In a shocking announcement that has sent shockwaves through Hollywood, Celebrity A revealed they tied the knot with their longtime partner in an intimate ceremony held in a private location. The couple, who has been dating for over five years, kept their relationship largely private despite being in the spotlight. Sources close to the couple confirm that the wedding was a small, intimate affair attended only by close family and friends.",
+      "author": "Celebrity News Team",
+      "date": "2024-06-30",
+      "category": "Breaking News",
+      "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "Hollywood Power Couple Celebrates First Anniversary with Stunning Photoshoot",
+      "excerpt": "Celebrity B and Celebrity C mark their first year of marriage with exclusive anniversary photos and heartfelt messages.",
+      "content": "Celebrity B and Celebrity C, who got married exactly one year ago, celebrated their first anniversary in style with an exclusive photoshoot and heartfelt social media posts. The couple shared behind-the-scenes moments from their wedding day and expressed their gratitude for the love and support from their fans.",
+      "author": "Entertainment Editor",
+      "date": "2024-06-29",
+      "category": "Trending",
+      "image": "https://images.unsplash.com/photo-1505252585461-04db1267ae5b?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Celebrity D Denies Engagement Rumors: 'Just Taking Things Slow'",
+      "excerpt": "Celebrity D responds to recent engagement rumors with a statement about their relationship status.",
+      "content": "Celebrity D has responded to persistent rumors about an engagement to their longtime partner Celebrity E. In an interview with a major magazine, Celebrity D clarified that while they are very happy together, they are not currently engaged and are simply enjoying their relationship as it is.",
+      "author": "Celebrity Watch",
+      "date": "2024-06-28",
+      "category": "Rumors",
+      "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "Celebrity Couple Announces Split After 7 Years Together",
+      "excerpt": "A beloved Hollywood couple has announced their separation in a joint statement to their fans.",
+      "content": "After 7 years of dating and 3 years of marriage, Celebrity F and Celebrity G have announced their separation. The couple released a joint statement expressing that they will remain good friends and co-parents, and they appreciate the support from their fans during this time.",
+      "author": "News Correspondent",
+      "date": "2024-06-27",
+      "category": "Latest News",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 5,
+      "title": "Reality TV Stars Get Married in Surprise Desert Wedding",
+      "excerpt": "Two reality TV stars shocked fans by getting married in an unexpected ceremony in the desert.",
+      "content": "In what can only be described as a spontaneous celebration, two reality TV personalities got married in a surprise ceremony at a desert venue. The couple, who met on a reality show just six months ago, decided to elope with only a handful of close friends and family present. They shared the exciting news on social media immediately after the ceremony.",
+      "author": "Reality TV Insider",
+      "date": "2024-06-26",
+      "category": "Celebrity",
+      "image": "https://images.unsplash.com/photo-1519671482677-a67bb6ff0b6d?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 6,
+      "title": "Celebrity H Reveals Relationship Journey in Exclusive Interview",
+      "excerpt": "Celebrity H opens up about how they met their spouse and their path to marriage.",
+      "content": "In an exclusive and candid interview, Celebrity H shared intimate details about how they met their now-spouse and the journey that led to their marriage. The interview covers the challenges they faced, the magical proposal moment, and their plans for the future together.",
+      "author": "Magazine Features",
+      "date": "2024-06-25",
+      "category": "Interviews",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&h=400&fit=crop"
+    }
+  ]
+}
