@@ -10,5 +10,25 @@
       "category": "Breaking News",
       "image": "https://images.unsplash.com/photo-1505252585461-04db1267ae5b?w=800&h=400&fit=crop"
     },
+    {
+      "id": 2,
+      "title": "Celebrity A Announces Secret Marriage After Years of Dating",
+      "excerpt": "In a shocking announcement, Celebrity A revealed they tied the knot with their longtime partner in an intimate ceremony.",
+      "content": "In a shocking announcement that has sent shockwaves through Hollywood, Celebrity A revealed they tied the knot with their longtime partner in an intimate ceremony held in a private location. The couple, who has been dating for over five years, kept their relationship largely private despite being in the spotlight.",
+      "author": "Celebrity News Team",
+      "date": "2026-06-29",
+      "category": "Breaking News",
+      "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=400&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Hollywood Power Couple Celebrates First Anniversary",
+      "excerpt": "Celebrity B and Celebrity C mark their first year of marriage with exclusive anniversary photos.",
+      "content": "Celebrity B and Celebrity C, who got married exactly one year ago, celebrated their first anniversary in style with an exclusive photoshoot and heartfelt social media posts.",
+      "author": "Entertainment Editor",
+      "date": "2026-06-28",
+      "category": "Trending",
+      "image": "https://images.unsplash.com/photo-1505255585461-04db1267ae5b?w=800&h=400&fit=crop"
+    }
   ]
 }
